@@ -26,5 +26,5 @@ Here some points:
 - PostreSQL
 - SQL
 
-Note:
+# Note:
 I will update this repository while I continue learning and practice more SQL queries.
