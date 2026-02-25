@@ -3,12 +3,19 @@
 # Description:
 This repository is about personal practice of queries of SQL using PostgreSQL.
 Here some points:
+
 ✔️Create table
+
 ✔️Insert data.
+
 ✔️Make some queries using:
+
   ➡️ WHERE
+  
   ➡️ ORDER BY
+  
   ➡️ GROUP BY
+  
   ➡️ AND, OR
   ➡️ =<, <, >=, >, =
   ➡️ LIKE
