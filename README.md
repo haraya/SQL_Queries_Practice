@@ -17,7 +17,9 @@ Here some points:
   ➡️ GROUP BY
   
   ➡️ AND, OR
+  
   ➡️ =<, <, >=, >, =
+  
   ➡️ LIKE
 
 # Tools:
